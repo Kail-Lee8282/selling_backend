@@ -1,0 +1,23 @@
+{
+    "compilerOptions": {
+      "rootDirs": ["src"],
+      "outDir": "build",
+      "allowJs": true,
+      "lib": ["es2020"],
+      "target": "es2020",
+      // "module": "esnext",
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "types": ["node"]
+    }
+  }
+
+// {
+//   "compilerOptions": {
+//     "outDir": "build",
+//     "allowJs": true,
+//     "target": "es5",
+//     "esModuleInterop": true
+//   },
+//   "include": ["./src/**/*"]
+// }
